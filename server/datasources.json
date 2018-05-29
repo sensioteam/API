@@ -1,0 +1,26 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "mongodb": {
+    "host": "",
+    "port": 0,
+    "url": "mongodb://awa:passer@ds117540.mlab.com:17540/sensiodb",
+    "database": "sensiodb",
+    "password": "",
+    "name": "mongodb",
+    "user": "",
+    "connector": "mongodb"
+  },
+  "mongo": {
+    "host": "",
+    "port": 0,
+    "url": "",
+    "database": "SensioDb",
+    "password": "",
+    "name": "mongo",
+    "user": "",
+    "connector": "mongodb"
+  }
+}
