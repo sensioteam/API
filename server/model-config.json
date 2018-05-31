@@ -36,11 +36,15 @@
     "public": false
   },
   "Data": {
-    "dataSource": "mongo",
+    "dataSource": "mongodb",
     "public": true
   },
   "Utilisateur": {
-    "dataSource": "mongo",
+    "dataSource": "mongodb",
     "public": true
+  },
+  "test": {
+    "dataSource": "db",
+    "public": false
   }
 }

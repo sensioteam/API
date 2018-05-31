@@ -6,8 +6,8 @@
   "mongodb": {
     "host": "",
     "port": 0,
-    "url": "mongodb://awa:passer@ds117540.mlab.com:17540/sensiodb",
-    "database": "sensiodb",
+    "url": "mongodb://awa:passer123/@ds239930.mlab.com:39930/sensioapi",
+    "database": "sensioapi",
     "password": "",
     "name": "mongodb",
     "user": "",
